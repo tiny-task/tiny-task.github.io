@@ -6,6 +6,8 @@ Whether you're wanting to prank a friend or create an .exe, TinyTask is a great 
 This isn't about audio, though. So what is it, then? It's a mouse and keyboard macro recorder. This means that everything you type and all you do with your mouse while the program is active can be replayed. This can be done as many times as you'd like. 
 You can even make them into .exe files! 
 
+![image](https://github.com/tiny-task/files/raw/master/c35c7a48029720d6b1df6ee59a27c855.jpeg)
+
 
 ### Features of TinyTask
 

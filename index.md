@@ -16,26 +16,26 @@ There's no installer, help file, or anything unnecessary; just a tiny EXE progra
 ### Download TinyTask 1.77 for Windows 
 
 
-[Download](https://github.com/tiny-task/tiny-task.github.io/edit/master/index.md) 
+[Download](https://github.com/tiny-task/files/raw/master/TinyTask.exe?raw=true) 
 
 ### Download TinyTask 1.70 for Windows 
 
 
-[Download](https://github.com/tiny-task/tiny-task.github.io/edit/master/index.md) 
+[Download](https://github.com/tiny-task/files/raw/master/TinyTask.exe?raw=true) 
 
 ### Download TinyTask portable
 
 
-[Download](https://github.com/tiny-task/tiny-task.github.io/edit/master/index.md) 
+[Download](https://github.com/tiny-task/files/raw/master/TinyTask.exe?raw=true) 
 
 ### Download TinyTask for chromebook
 
 
-[Download](https://github.com/tiny-task/tiny-task.github.io/edit/master/index.md) 
+[Download](#) 
 
 ### Download TinyTask for mac
 
 
-[Download](https://github.com/tiny-task/tiny-task.github.io/edit/master/index.md) 
+[Download](#) 
 
 Credit for the tool - Vista Software
